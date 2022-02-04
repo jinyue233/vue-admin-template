@@ -34,6 +34,28 @@ npm install
 npm run dev
 ```
 
+或
+
+```bash
+# clone the project
+git clone https://github.com/PanJiaChen/vue-admin-template.git
+
+# enter the project directory
+cd vue-admin-template
+
+
+cnpm install core-js@3 (若报这个错则按照这个依赖)
+
+
+# install dependency
+cnpm install
+
+
+
+# develop
+npm run dev
+```
+
 This will automatically open http://localhost:9528
 
 ## Build
